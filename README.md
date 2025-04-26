@@ -37,8 +37,8 @@ A RESTful backend API service for logging and managing AI safety incidents. Buil
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/ai-safety-incidents.git
-cd ai-safety-incidents
+git clone https://github.com/Harshit2583/ai-safety-incident-api.git
+cd ai-safety-incident-api
 ```
 
 ### 2. Install dependencies
